@@ -1,0 +1,42 @@
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.exe
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.deps.json
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.runtimeconfig.json
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfoInputs.cache
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfo.cs
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\refint\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.genruntimeconfig.cache
+C:\Users\Ash\Documents\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\ref\Bib_PonciGarciaGarrote.dll
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.exe
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.deps.json
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.runtimeconfig.json
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfoInputs.cache
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfo.cs
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.csproj.CoreCompileInputs.cache
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\refint\Bib_PonciGarciaGarrote.dll
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.genruntimeconfig.cache
+C:\Users\Ryoku\Documents\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\ref\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.exe
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.deps.json
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.runtimeconfig.json
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\bin\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfoInputs.cache
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.AssemblyInfo.cs
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\refint\Bib_PonciGarciaGarrote.dll
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.pdb
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\Bib_PonciGarciaGarrote.genruntimeconfig.cache
+C:\Users\Ash\Documents\AP\OneDrive - AP Hogeschool Antwerpen\AP\OOProgrammeren\Project\Bib_PonciGarciaGarrote\Bib_PonciGarciaGarrote\obj\Debug\net6.0\ref\Bib_PonciGarciaGarrote.dll

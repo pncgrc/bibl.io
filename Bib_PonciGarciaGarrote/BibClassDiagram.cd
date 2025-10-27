@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Bib_PonciGarciaGarrote.Book">
+    <Position X="2" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACgEABAoBiAYEAIwCAAAEAAACgAAQkIACAIA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bib_PonciGarciaGarrote.ReadingRoomItem">
+    <Position X="6" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABQAAAAEAACAAAAAgAAAAAAAAAAAAIAAAACAA=</HashCode>
+      <FileName>ReadingRoomItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_PonciGarciaGarrote.NewsPaper">
+    <Position X="6" Y="7" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAACAA=</HashCode>
+      <FileName>NewsPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_PonciGarciaGarrote.Magazine">
+    <Position X="10.25" Y="6.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABBAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_PonciGarciaGarrote.Library">
+    <Position X="9.75" Y="1.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>gBgCAAAAAAAQBAAIAAAAIAQAAAAGAAAAAgCAEAAAAAA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_PonciGarciaGarrote.Program">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Bib_PonciGarciaGarrote.BookGenres">
+    <Position X="0.5" Y="1.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIBBAAAAAAABAAgAAAAAAAEAAAAAAAAFAgAAAA=</HashCode>
+      <FileName>BookGenres.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|c:\\users\\ryoku\\documents\\onedrive - ap hogeschool antwerpen\\ap\\ooprogrammeren\\project\\bib_poncigarciagarrote\\bib_poncigarciagarrote\\bookgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53947A83-D4FA-4BCA-9E84-68956A924085}|Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote.csproj|solutionrelative:bib_poncigarciagarrote\\bookgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookGenres.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\BookGenres.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\BookGenres.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\BookGenres.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\BookGenres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:53:09.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Magazine.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\Magazine.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Magazine.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:58:57.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsPaper.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\NewsPaper.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\NewsPaper.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\NewsPaper.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\NewsPaper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:23:43.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Library.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\Library.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Library.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\Library.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAEwLgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:43:02.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Book.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\Book.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Book.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\Book.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwE0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:43:02.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Program.cs",
+              "RelativeDocumentMoniker": "Bib_PonciGarciaGarrote\\Program.cs",
+              "ToolTip": "C:\\Users\\Ryoku\\Documents\\OneDrive - AP Hogeschool Antwerpen\\AP\\OOProgrammeren\\Project\\Bib_PonciGarciaGarrote\\Bib_PonciGarciaGarrote\\Program.cs",
+              "RelativeToolTip": "Bib_PonciGarciaGarrote\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKABAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:31:57.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
