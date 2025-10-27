@@ -1,6 +1,6 @@
 # 📚 bibl.io
 
-C#-toepassing voor bibliotheekbeheer met boeken, kranten en maandbladen. Bevat uitleenfunctionaliteit, leeszaalbeheer, CSV-import, exception handling en toepassing van OOP-principes zoals inheritance, interfaces en polymorfisme.
+C#-toepassing voor bibliotheekbeheer met boeken, kranten en maandbladen. Bevat uitleenfunctionaliteit, leeszaalbeheer, CSV-import, exception handling en toepassing van OOP-principes zoals inheritance en interfaces.
 
 ---
 
